@@ -1,9 +1,5 @@
 # Cross-Platform Photo Gallery
 
-![License](https://img.shields.io/github/license/Punnamrithvika/cross-platform-photo-gallery)
-![Issues](https://img.shields.io/github/issues/Punnamrithvika/cross-platform-photo-gallery)
-![Stars](https://img.shields.io/github/stars/Punnamrithvika/cross-platform-photo-gallery)
-
 A modern, feature-rich photo gallery application that works seamlessly across multiple platforms through a responsive web interface.
 
 ## Features
